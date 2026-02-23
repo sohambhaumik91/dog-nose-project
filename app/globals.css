@@ -20,7 +20,7 @@
 }
 
 body {
-  background: var(--background);
+  background: #f7f3f0;
   color: var(--foreground);
   font-family: var(--font-cormorant-garamond), serif;
 }
